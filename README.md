@@ -1,2 +1,2 @@
 # system-simulation
-课程作业
+系统仿真课程作业
